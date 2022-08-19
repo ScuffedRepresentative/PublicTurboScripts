@@ -1,0 +1,7 @@
+{
+  "Name": "Turbo Scripts",
+  "File": "Main.lua",
+  "Version": 1.6,
+  "Type": "Champion AIO",
+  "Champions": ["Ashe" ,"Blitzcrank", "Camille", "Lillia", "MissFortune", "Viego"]
+}

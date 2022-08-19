@@ -49,7 +49,7 @@ function Camille.Load(viegoCompatibility)
             type = spellType.linear,
             rangeType = SpellRangeType.Edge,
             range = 950,
-            speed = 1400, -- måske 1050
+            speed = 1050, -- probably 1050
             radius = 100,
             collision = {
                 hero = SpellCollisionType.Hard,
@@ -193,7 +193,6 @@ function Camille.Load(viegoCompatibility)
 
         self:ManuelR()
         self:ManuelW()
-        self:CastE1()
 
         self:Combo()
         self:Harass()
